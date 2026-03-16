@@ -1,0 +1,6 @@
+FreeSimpleGUI
+transformers
+torch
+Pillow
+requests
+beautifulsoup4
